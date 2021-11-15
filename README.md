@@ -44,13 +44,14 @@ such as Jupyter notebook,Numpy,Matplotlib,pandas.
 
 # Questions This Project Will Answered:
 
-•	Is the one who smokes the most prone to heart disease?
+•	what Number of people with heart disease smoking and non-smokers?
 
-•	More susceptible to heart disease, women or men?
+•	what Number of people with heart disease?
 
-•	Who's more likely to have heart disease?
+•	what Number of cholesterol?
 
-•	How much is cholesterol in heart disease?
+•	What Number of women and men?
+
 
 # TO DO:
 
